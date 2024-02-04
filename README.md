@@ -11,15 +11,16 @@ Welcome to the Flutter Chat App repository! 🚀
 
 
 ## Screenshots and Video
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/544948ae-5bee-45dc-b4a0-7c4614885411" width="300" height="700">
 
-![Screenshot_20240204_120323_Gallery](https://github.com/SyedHanifShah/ChatGuru/assets/90584870/544948ae-5bee-45dc-b4a0-7c4614885411)
-![Screenshot_20240204_120640_MX Player](https://github.com/SyedHanifShah/ChatGuru/assets/90584870/60cbfc76-0e11-4c66-a0c4-7fd52702002e)
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/60cbfc76-0e11-4c66-a0c4-7fd52702002e" width="300" height="700">
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/dffd7c7b-7cb2-4f4a-93b6-6e101ce0efb7" width="300" height="700">
 
-![Screenshot_20240204_120418_Gallery](https://github.com/SyedHanifShah/ChatGuru/assets/90584870/dffd7c7b-7cb2-4f4a-93b6-6e101ce0efb7)
-![Screenshot_20240204_120522_MX Player](https://github.com/SyedHanifShah/ChatGuru/assets/90584870/842b437e-e088-406a-86c5-ebfe106cc828)
-![Screenshot_20240204_120607_MX Player](https://github.com/SyedHanifShah/ChatGuru/assets/90584870/12ff0d31-8303-4ac1-a4f8-3fdc48cceb21)
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/842b437e-e088-406a-86c5-ebfe106cc828" width="300" height="700">
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/12ff0d31-8303-4ac1-a4f8-3fdc48cceb21" width="300" height="700">
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/646b3c4d-7276-4168-92fc-986766c86259" width="300" height="700">
 
-![Screenshot_20240204_120553_MX Player](https://github.com/SyedHanifShah/ChatGuru/assets/90584870/646b3c4d-7276-4168-92fc-986766c86259)
+
 
 
 
