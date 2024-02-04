@@ -44,3 +44,8 @@ Connect your Firebase project: Follow the instructions in firebase_config.dart t
 Run the app: flutter run
 
 
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests.
+
+
+
