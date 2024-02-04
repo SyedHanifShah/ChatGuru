@@ -9,6 +9,9 @@ Welcome to the Flutter Chat App repository! 🚀
 . One-to-One Messaging: Connect with friends through seamless and private conversations.
 . Push Notifications: Stay in the loop with instant notifications for new messages.
 
+  ### Check out the APK file here:
+  https://github.com/SyedHanifShah/ChatGuru/releases/tag/v1.0.1
+
 
 ## Screenshots and Video
 <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/544948ae-5bee-45dc-b4a0-7c4614885411" width="300" height="700">
