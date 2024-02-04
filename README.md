@@ -14,7 +14,9 @@ Welcome to the Flutter Chat App repository! 🚀
 <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/544948ae-5bee-45dc-b4a0-7c4614885411" width="300" height="700">
 
 <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/60cbfc76-0e11-4c66-a0c4-7fd52702002e" width="300" height="700">
-<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/dffd7c7b-7cb2-4f4a-93b6-6e101ce0efb7" width="300" height="700">
+<img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/58fbd8aa-1bdf-4214-bf9b-9ff0fc6a3816" width="300" height="700">
+
+
 
 <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/842b437e-e088-406a-86c5-ebfe106cc828" width="300" height="700">
 <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/12ff0d31-8303-4ac1-a4f8-3fdc48cceb21" width="300" height="700">
