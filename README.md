@@ -1,16 +1,36 @@
-# chat_app
+# ChatGuru Flutter Chat App
 
-A new Flutter project.
+Welcome to the Flutter Chat App repository! 🚀
+
+
+##Features
+
+. Sign Up/Log In: Easily join the chat with your phone number or using Google One Tap.
+. One-to-One Messaging: Connect with friends through seamless and private conversations.
+. Push Notifications: Stay in the loop with instant notifications for new messages.
+
+
+##Screenshots and Video
+
+
+
+
+
+##Tech Stack
+
+. Flutter: Building beautiful and responsive user interfaces.
+. Firebase: Leveraging real-time database and authentication services.
+. Provider: Efficient state management for a smooth user experience.
+. MVVM Clean Architecture: Organized and scalable codebase for maintainability.
+. Firebase Messaging: Enabling push notifications for timely updates.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Clone the repository: git clone https://github.com/SyedHanifShah/ChatGuru.git
+Install dependencies: flutter pub get
+Connect your Firebase project: Follow the instructions in firebase_config.dart to set up Firebase.
+Run the app: flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
