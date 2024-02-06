@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/ced5dd82-0a83-4ee1-b8f0-1a692dc1432a" alt="Chat guru" , width="300" height="300">
-    <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/0d62fd0f-8ad7-461b-91d5-11deb1992677" alt="Firebase",  width="300" height="300">
+  <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/ced5dd82-0a83-4ee1-b8f0-1a692dc1432a" alt="Chat guru" , width="100" height="100">
+    <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/0d62fd0f-8ad7-461b-91d5-11deb1992677" alt="Firebase",  width="100" height="100">
 
 </p>
 
