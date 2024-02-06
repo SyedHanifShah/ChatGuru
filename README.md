@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/ced5dd82-0a83-4ee1-b8f0-1a692dc1432a" alt="Description of your image">
+    <img src="https://github.com/SyedHanifShah/ChatGuru/assets/90584870/0d62fd0f-8ad7-461b-91d5-11deb1992677" alt="Description of your image">
+
+</p>
+
+
 # ChatGuru Flutter Chat App
 
 Welcome to the Flutter Chat App repository! 🚀
